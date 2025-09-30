@@ -6,8 +6,10 @@ Proyecto: Parklink
 
 [Mapa de proceso]()
 
-[Requerimientos funcionales y no funcionales]()
+[Recoleccio de informacion]()
+
+[Requerimientos Funcionales, NO Funcionales](https://github.com/user-attachments/files/22628138/Requerimientos.Funcionales.NO.Funcionales.1.1.docx.1.pdf)
 
 [Prototipo](https://www.figma.com/design/x0Xc03XYLFlD7sDYOmyssq/Sin-t%C3%ADtulo?node-id=0-1&m=dev&t=d40u6ig14e464ckL-1)
 
-[Requerimientos Funcionales, NO Funcionales](https://github.com/user-attachments/files/22628138/Requerimientos.Funcionales.NO.Funcionales.1.1.docx.1.pdf)
+
